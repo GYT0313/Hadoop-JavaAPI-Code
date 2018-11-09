@@ -1,6 +1,6 @@
 # Hadoop-JavaAPI-Code
 chapter4：
-wordcount实例
+1. wordcount实例
 
 ---
 
